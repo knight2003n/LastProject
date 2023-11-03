@@ -7,7 +7,7 @@
 URL: http://localhost:8080/#/login
 
 
-Email : Test@gmail.com
+Email : 321@gmail.com
 
 
-Password : Test
+Password : 321
