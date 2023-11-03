@@ -11,7 +11,6 @@ import TreeCreate from '@/components/Tree/CreateTree'
 import TreeEdit from '@/components/Tree/EditTree'
 import TreeShow from '@/components/Tree/ShowTree'
 
-import Heart from '@/components/Heart'
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 
