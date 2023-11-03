@@ -70,10 +70,6 @@ export default new Router({
       name: 'register',
       component: Register
     },
-    {
-      path: '/Heart',
-      name: 'Heart',
-      component: Heart
-    },
+    
   ]
 })
